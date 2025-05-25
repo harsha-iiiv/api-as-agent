@@ -1,1 +1,6 @@
 streamlit
+google-generativeai
+python-dotenv
+PyYAML
+openapi-spec-validator
+requests
